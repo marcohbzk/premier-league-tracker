@@ -1,7 +1,10 @@
 # 🏆 Premier Zone - Premier League Player Statistics API
 
 A **Spring Boot REST API** for managing and querying **Premier League player statistics** with full **PostgreSQL** integration.
-
+---
+## ⚙️ TODO ⚙️
+- **Apply Spring Security JWT** — User Sign Up + Login with Email Verification
+- 
 ---
 
 ## 🚀 Features
