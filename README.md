@@ -4,7 +4,6 @@ A **Spring Boot REST API** for managing and querying **Premier League player sta
 ---
 ## ⚙️ TODO ⚙️
 - **Apply Spring Security JWT** — User Sign Up + Login with Email Verification
-- 
 ---
 
 ## 🚀 Features
